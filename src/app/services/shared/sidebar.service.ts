@@ -21,6 +21,14 @@ menu: any = [
         titulo: 'Graficas',
         url: '/grafica1'
       },
+      {
+        titulo: 'Promesas',
+        url: '/promesas'
+      },
+      {
+        titulo: 'RXJS',
+        url: '/rxjs'
+      },
     ]
   }
 ];
